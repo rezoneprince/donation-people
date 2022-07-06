@@ -170,12 +170,49 @@ body{
     font-size: 18px;
     letter-spacing: 1px;
 }
-
-
-
-
-
-
+.get-update .more-info{
+    text-align: center;
+}
+.more-info h1{
+    font-size: 45px;
+    padding: 20px 0px;
+}
+.more-info p{
+    font-size: 18px;
+    padding: 20px 0px;
+    margin-bottom: 40px;
+    color: rgb(106, 100, 100);
+}
+.get-update .email-send{
+    text-align: center;
+    padding: 10px 20px;
+    background-color: bisque;
+    width: 60%;
+    height: 150px;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 120px;
+}
+.get-update .email-send form{
+    margin-top: 25px;
+    padding-top: 35px;
+    padding-right: 125px;
+}
+.get-update .email-send form input{
+    width: 15%;
+    border:0;
+    padding: 10px 30px;
+    border-radius: 10px 0px 0px 10px;
+    background-color: rgb(233, 237, 237);
+    position: relative;
+}
+.get-update .email-send a{
+    padding: 9px 30px;
+    font-size: 15px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: rgb(253, 128, 3);
+    position: absolute;
+}
 
 
 
