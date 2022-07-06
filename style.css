@@ -50,6 +50,7 @@ body{
     font-size: 20px;
     padding: 15px 20px;
     margin-bottom: 50px;
+    color: rgb(106, 100, 100);
 }
 .donation-measurements .amount{
     font-size: 35px;
@@ -80,15 +81,57 @@ body{
     margin-bottom: 50px;
 }
 
+.donation-plan .donation-matarials{
+    text-align: center;
+    padding: 20px 30px;
+    margin-top: 130px;
+}
+.donation-matarials h2{
+    font-size: 45px;
+    padding: 20px 15px;
+}
+.donation-matarials p{
+    font-size: 20px;
+    padding: 20px 18px;
+    color: rgb(106, 100, 100);
+}
 
+.donation-plan .provide .card-box{
+    width: 70%;
+    padding: 10px 50px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.donation-plan .provide{
+    display: flex;
+    margin-right: 100px;
+    margin-left:110px;
+    padding: 18px 20px;
 
-
-
-
-
-
-
-
+}
+.donation-plan .card-box img{
+    margin-top: 30px;
+}
+.donation-plan .card-box h3{
+    font-size: 25px;
+    padding: 18px 0px;
+}
+.donation-plan .card-box p{
+    font-size: 17px;
+    padding: 15px 0px;
+    color: rgb(106, 100, 100);
+    padding-bottom: 50px;
+    letter-spacing: 0.5px;
+}
+.donation-plan .provide #family-box .card-box{
+    background-color:#EDF5F6;
+}
+.donation-plan .provide #shelter-box .card-box{
+    background-color:#FFEEEE;
+}
+.donation-plan .provide #education-box .card-box{
+    background-color:#FFF4D6;
+}
 
 
 
