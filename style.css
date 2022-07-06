@@ -107,7 +107,7 @@ body{
     margin-right: 100px;
     margin-left:110px;
     padding: 18px 20px;
-
+    margin-bottom: 120px;
 }
 .donation-plan .card-box img{
     margin-top: 30px;
@@ -132,10 +132,44 @@ body{
 .donation-plan .provide #education-box .card-box{
     background-color:#FFF4D6;
 }
-
-
-
-
+.flood-people .need-food{
+    display: flex;
+    margin-bottom: 120px;
+    background-color: rgb(212, 210, 207);
+}
+.flood-people img{
+    width: 50%;
+}
+.flood-people .for-flood h1{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.flood-people .for-flood p{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(106, 100, 100);
+    padding-bottom: 30px;
+}
+.flood-people .for-flood hr{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
+.flood-people .help-people h2{
+    text-align: center;
+    font-size: 35px;
+    padding: 10px 20px;
+    margin-top: 140px;
+}
+.flood-people .help-people p{
+    text-align: inter-word;
+    justify-content: center;
+    padding: 20px 20px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
 
 
 
